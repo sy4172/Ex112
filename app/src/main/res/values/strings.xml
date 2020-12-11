@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ex112</string>
+    <string name="main">Main</string>
+    <string name="credits">Credits</string>
+    <string name="this_app_was_created_by">This app was created by</string>
+    <string name="shahar_yani">Shahar Yani</string>
+    <string name="enter_a_text">Enter a text:</string>
+</resources>
